@@ -1,15 +1,22 @@
-In this project, a system was designed to facilitate music learning through the integration
-of Augmented Reality, Computer Vision, and Artificial Intelligence technologies. The
-aim was to address the needs of students lacking access to a private teacher or guide,
-particularly in the early stages of their education. Limitations such as lack of time,
-economic resources and geographical distances restricted them to taking traditional
-learning options in media that are static and lack interactivity such as books, videos or
-audio. The system provides an enriching learning experience by allowing students to
-engage in immersive lessons, interact in real-time with musical elements, and grasp
-abstract concepts inherent in music through practical application. Moreover, the
-development is scalable and improvable, with the capacity to evolve and offer advanced
-features in the future. This significantly broadens musical learning opportunities, meeting
-current needs and adapting to continuous growth and enhancement. The project was
-conceived with the intention of empowering individuals, providing them the opportunity
-to explore and cultivate their passion for music in a more accessible, personalized, and
-exciting manner.
+Proyecto de Aprendizaje Musical con Realidad Aumentada y Tecnologías Avanzadas
+
+Descripción del Proyecto
+
+Este proyecto se centra en el diseño y desarrollo de un sistema innovador que facilita el aprendizaje musical mediante el aprovechamiento de tecnologías de realidad aumentada, visión por computadora e inteligencia artificial. El objetivo principal es satisfacer las necesidades de estudiantes que carecen de acceso a un profesor particular o guía, especialmente durante las etapas iniciales de su formación musical.
+Problema Abordado
+
+Los estudiantes enfrentan limitaciones significativas, como la falta de tiempo, recursos económicos y distancias geográficas, que los restringen a opciones de aprendizaje tradicionales. Estas opciones, como libros, videos o audio, resultan estáticas y carecen de interactividad. Este proyecto busca superar estas limitaciones proporcionando una experiencia de aprendizaje enriquecedora y práctica.
+Características Principales
+
+    Inmersión Interactiva: El sistema ofrece lecciones inmersivas que permiten a los estudiantes interactuar en tiempo real con elementos musicales.
+
+    Abstracción Práctica: Facilita la comprensión de conceptos abstractos inherentes a la música de manera práctica, mejorando la retención y aplicabilidad del conocimiento.
+
+    Escalabilidad y Mejora Continua: El desarrollo del sistema es escalable y mejorable, con la capacidad de evolucionar y ofrecer características avanzadas en el futuro.
+
+Beneficios y Oportunidades
+
+Este proyecto amplía significativamente las oportunidades de aprendizaje musical, satisfaciendo las necesidades actuales y adaptándose al crecimiento y perfeccionamiento continuo. La intención es empoderar a las personas, brindándoles la oportunidad de explorar y cultivar su pasión por la música de manera más accesible, personalizada y emocionante.
+Futuro del Proyecto
+
+El sistema no solo aborda las necesidades actuales, sino que también está concebido para evolucionar, ofreciendo características más avanzadas en el futuro. Esto asegura que el proyecto siga siendo relevante y contribuya al desarrollo continuo de la educación musical.
