@@ -1,17 +1,24 @@
+# MIT License
+# 
 # Copyright (c) 2024 Gustavo Futo
-#
-# Este programa es software libre; puedes redistribuirlo y/o modificarlo
-# bajo los términos de la Licencia Pública General de GNU tal como se publica por
-# la Free Software Foundation, ya sea la versión 3 de la Licencia, o
-# (a tu elección) cualquier versión posterior.
-#
-# Este programa se distribuye con la esperanza de que sea útil,
-# pero SIN NINGUNA GARANTÍA; sin incluso la garantía implícita de
-# COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulta los
-# detalles de la Licencia Pública General de GNU para obtener más detalles.
-#
-# Deberías haber recibido una copia de la Licencia Pública General de GNU
-# junto con este programa. Si no, consulta <https://www.gnu.org/licenses/>.
+# 
+# Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+# de este software y de los archivos de documentación asociados (el "Software"), para
+# tratar el Software sin restricciones, incluyendo sin limitación los derechos
+# de uso, copia, modificación, fusión, publicación, distribución, sublicencia
+# y/o venta de copias del Software, y para permitir a las personas a las que se les
+# proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+# 
+# El aviso de copyright anterior y este aviso de permisos se incluirán en
+# todas las copias o partes sustanciales del Software.
+# 
+# EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+# IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
+# APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+# TITULARES DEL COPYRIGHT O LOS AUTORES SERÁN RESPONSABLES DE NINGÚN RECLAMO,
+# DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER
+# OTRA FORMA, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U
+# OTRAS NEGOCIACIONES EN EL SOFTWARE.
 
 
 import tkinter as tk
