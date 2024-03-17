@@ -1,6 +1,6 @@
 # MIT License
 # 
-# Copyright (c) 2024 Gustavo Futo
+# Copyright (c) 2024 Gustavo Futo 
 # 
 # Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 # de este software y de los archivos de documentación asociados (el "Software"), para
